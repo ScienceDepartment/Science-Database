@@ -1,0 +1,13 @@
+# SCP-008 "Zombie Plague"
+
+!["SCP-008 releasing gas"](https://lh5.googleusercontent.com/2XSE5E3hbE3ctCMnw-b3zBhdPVhsCfgbqCxlbDlCGhZSqGxD7Umf99YyOT64vGW02dlxbt6z-jVMAIQm0idqYuMnCQ1izRV1mwaheLVICgbbs4IiBJpuDXDSp-7RzOpSz1vp5xdBFVA\_SjXoR75AvHk)
+
+{% hint style="info" %}
+Testing Clearance: <mark style="color:purple;">**Junior Researcher**</mark>
+
+Maximum Class-Ds Allowed: <mark style="color:orange;">**6**</mark>
+
+Location: <mark style="color:yellow;">**Medium Containment Zone**</mark>
+{% endhint %}
+
+**SCP 008, also known as “Zombie Plague”** is a biohazardous Euclid anomaly. SCP 008 is an airborne infection. Should a human be infected with 008, they will die instantaneously. The deceased will then revive into a zombie-like creature. These “Zombies” resemble rotting corpses, and have a unique walking style. The infected remain just as physically able as they did when they were alive, and don’t seem to gain any ill-effects from their rotting bodies. Infected individuals are very hostile, and will attempt to spread 008 via touch. Biohazard suits have proven effective in preventing the spread of 008.
