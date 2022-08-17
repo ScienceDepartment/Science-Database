@@ -86,3 +86,27 @@ $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 ```
 
 </details>
+
+## Test Logs
+
+{% tabs %}
+{% tab title="Log 001" %}
+{% embed url="https://docs.google.com/document/d/1BbYBYT7GgYXa3TdULKvKGCAAeYtKHy_b9-uNX0na9fs/edit" %}
+{% endtab %}
+
+{% tab title="Log 002" %}
+{% embed url="https://docs.google.com/document/d/1MmqkMokFfI7f_ir0z1cwwk1YDgls9QmZ1a-lfxW7ygs/edit" %}
+{% endtab %}
+
+{% tab title="Log 003" %}
+{% embed url="https://docs.google.com/document/d/1XbJAXqFRxthfynI96Hinkc-4IRQ5cDCvBAyIDmSaWDM/edit" %}
+{% endtab %}
+
+{% tab title="Log 004" %}
+{% embed url="https://docs.google.com/document/d/1APfCjHiiPlHsvqMzcQyFgeZ2yfuVFzPinYRF43j9q-8/edit" %}
+{% endtab %}
+
+{% tab title="Log 005" %}
+
+{% endtab %}
+{% endtabs %}

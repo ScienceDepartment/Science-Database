@@ -6,13 +6,7 @@
 
 <img src="../.gitbook/assets/removed.png" alt="" data-size="line">Removed `Testing Logs` page
 
-<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [Test Logs](../documentation/scp-list/safe/scp-131-eyepods.md#test-logs) to SCP-131
-
-<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [Test Logs](../documentation/scp-list/safe/scp-1200-tastes-like-chewing-gum.md#test-logs) to SCP-1200
-
-<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated [SCP-131-B](../documentation/scp-list/safe/scp-131-eyepods.md#scp-131-b-or-black)
-
-<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated SCP-008 information
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [Test Logs](../documentation/scp-list/safe/scp-131-eyepods.md#test-logs) to SCP-131 page
 
 </details>
 
