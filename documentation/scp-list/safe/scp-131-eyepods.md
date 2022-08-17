@@ -49,7 +49,7 @@ $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 
 <details>
 
-<summary>SCP-131-DB | Demim/Dark Blue</summary>
+<summary>SCP-131-DB | Denim/Dark Blue</summary>
 
 ![](https://lh4.googleusercontent.com/SSImcsFWaRf45ZcfZT2qIeuG3yww4XMCdUJh58NYFcboaq67OUr7o5NY\_Tnlsj\_W9nCEqgis\_MhduNWMX6U3Lco6Ehsqhmrk\_cocXvw3eQy1PCOuGRzWo7US0zOSP2LqAvyrMIcJb8vJE3Oi8VqCW6E)
 
@@ -62,16 +62,9 @@ The Dark blue instance of SCP 131 shows some common behavior aspects with the or
 <summary>SCP-131-B | Black</summary>
 
 ```
-$ SCPF_NETWORK/PARAGON/DATABASE/SCP-131-B.png
-$ REESULT :: ERROR NO PHOTOS FOUND
-```
-
-```
 $ SCPF_NETWORK/PARAGON/DATABASE/SCP-131-B
-$ REESULT :: [ INFORMATION REDACTED BY ███ █████████████ ] 
+$ REESULT :: [ INFORMATION REDACTED BY O5 COUNCIL ] 
 ```
-
-
 
 </details>
 
