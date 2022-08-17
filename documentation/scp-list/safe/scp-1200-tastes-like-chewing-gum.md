@@ -99,7 +99,7 @@ $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 {% endtab %}
 
 {% tab title="Log 003" %}
-
+{% embed url="https://docs.google.com/document/d/1XbJAXqFRxthfynI96Hinkc-4IRQ5cDCvBAyIDmSaWDM/edit" %}
 {% endtab %}
 
 {% tab title="Log 004" %}
