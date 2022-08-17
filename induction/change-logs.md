@@ -2,14 +2,6 @@
 
 <details>
 
-<summary>VERSION 0.0.4 [ 8/16/2022 ]</summary>
-
-<img src="../.gitbook/assets/removed.png" alt="" data-size="line">Removed `Testing Logs` Page
-
-</details>
-
-<details>
-
 <summary>VERSION 0.0.3 [ 8/15/2022 ]</summary>
 
 <img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated database clearance on [information page](../)
