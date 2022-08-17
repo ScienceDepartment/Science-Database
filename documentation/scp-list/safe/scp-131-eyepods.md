@@ -94,27 +94,3 @@ The purple instance of SCP 131 has shown to be the most “problematic” of all
 The Green instance of SCP-131 is the shyest of the 131 instances, it is friendly towards Foundation Personnel, but has a tendency to run away, or hide from them. When put into a dangerous situation, 131-G will usually flee as soon as possible, if it is unable to flee it may hide behind or under any solid object.
 
 </details>
-
-## Test Logs
-
-{% tabs %}
-{% tab title="Log 001 " %}
-{% embed url="https://docs.google.com/document/d/1x-ILNMB2EJEivn7xggBgEdBb_rhuFL9Y63GJxyRpurA/edit" %}
-{% endtab %}
-
-{% tab title="Log 002" %}
-{% embed url="https://docs.google.com/document/d/1GdM9CEdfuTMV-WJYILsGtVpWwjc8wvZjZJBWr8R8Yqg/edit" %}
-{% endtab %}
-
-{% tab title="Log 003" %}
-{% embed url="https://docs.google.com/document/d/1_1zW4maolVD6-4j286HMz0Dovtg3gEngi_jUqQmEXyM/edit" %}
-{% endtab %}
-
-{% tab title="Log 004" %}
-{% embed url="https://docs.google.com/document/d/17MlD30hy_beKCOVeTShZLBSJjvwGebMQjwxgP4UiUqA/edit" %}
-{% endtab %}
-
-{% tab title="Experiment 5" %}
-{% embed url="https://docs.google.com/document/d/1y1OK8BisQCVYTO-AFV51YDW8exJR7B6D8TwqNcC0Ar4/edit" %}
-{% endtab %}
-{% endtabs %}

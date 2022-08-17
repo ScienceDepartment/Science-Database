@@ -2,6 +2,16 @@
 
 <details>
 
+<summary>VERSION 0.0.4 [ 8/16/2022 ]</summary>
+
+<img src="../.gitbook/assets/removed.png" alt="" data-size="line">Removed `Testing Logs` page
+
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [Test Logs](../documentation/scp-list/safe/scp-131-eyepods.md#test-logs) to SCP-131 page
+
+</details>
+
+<details>
+
 <summary>VERSION 0.0.3 [ 8/15/2022 ]</summary>
 
 <img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated database clearance on [information page](../)
