@@ -2,10 +2,6 @@
 
 !["SCP-1200 instances lined up on table"](https://lh4.googleusercontent.com/hyw4sIj2TJfjvZq7LFWAkx0mAecU-N4vBf8PdeAMBqMmXCTK6A6Erkr2bPf5znSIvRoG-8ECwpvIuYMfenqurNQZaZC6WK57gyY1mQyPQxCsIkeUZ7\_YlG9hg2W\_FTsPU1NVaDtluQo1m4ZIXkgmKe0)
 
-{% hint style="danger" %}
-SCP-1200 is partially functional. White, Blue, and Green do not work as of yet.
-{% endhint %}
-
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
 
@@ -108,5 +104,9 @@ $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 
 {% tab title="Log 004" %}
 {% embed url="https://docs.google.com/document/d/1APfCjHiiPlHsvqMzcQyFgeZ2yfuVFzPinYRF43j9q-8/edit" %}
+{% endtab %}
+
+{% tab title="Log 005" %}
+
 {% endtab %}
 {% endtabs %}
