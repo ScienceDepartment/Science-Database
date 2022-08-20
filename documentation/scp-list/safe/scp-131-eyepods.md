@@ -49,7 +49,7 @@ $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 
 <details>
 
-<summary>SCP-131-DB | Demim/Dark Blue</summary>
+<summary>SCP-131-DB | Denim/Dark Blue</summary>
 
 ![](https://lh4.googleusercontent.com/SSImcsFWaRf45ZcfZT2qIeuG3yww4XMCdUJh58NYFcboaq67OUr7o5NY\_Tnlsj\_W9nCEqgis\_MhduNWMX6U3Lco6Ehsqhmrk\_cocXvw3eQy1PCOuGRzWo7US0zOSP2LqAvyrMIcJb8vJE3Oi8VqCW6E)
 
@@ -62,16 +62,9 @@ The Dark blue instance of SCP 131 shows some common behavior aspects with the or
 <summary>SCP-131-B | Black</summary>
 
 ```
-$ SCPF_NETWORK/PARAGON/DATABASE/SCP-131-B.png
-$ REESULT :: ERROR NO PHOTOS FOUND
-```
-
-```
 $ SCPF_NETWORK/PARAGON/DATABASE/SCP-131-B
-$ REESULT :: [ INFORMATION REDACTED BY ███ █████████████ ] 
+$ RESULT :: [ INFORMATION REDACTED BY O5 COUNCIL ] 
 ```
-
-
 
 </details>
 
@@ -94,3 +87,27 @@ The purple instance of SCP 131 has shown to be the most “problematic” of all
 The Green instance of SCP-131 is the shyest of the 131 instances, it is friendly towards Foundation Personnel, but has a tendency to run away, or hide from them. When put into a dangerous situation, 131-G will usually flee as soon as possible, if it is unable to flee it may hide behind or under any solid object.
 
 </details>
+
+## Test Logs
+
+{% tabs %}
+{% tab title="Log 001 " %}
+{% embed url="https://docs.google.com/document/d/1x-ILNMB2EJEivn7xggBgEdBb_rhuFL9Y63GJxyRpurA/edit" %}
+{% endtab %}
+
+{% tab title="Log 002" %}
+{% embed url="https://docs.google.com/document/d/1GdM9CEdfuTMV-WJYILsGtVpWwjc8wvZjZJBWr8R8Yqg/edit" %}
+{% endtab %}
+
+{% tab title="Log 003" %}
+{% embed url="https://docs.google.com/document/d/1_1zW4maolVD6-4j286HMz0Dovtg3gEngi_jUqQmEXyM/edit" %}
+{% endtab %}
+
+{% tab title="Log 004" %}
+{% embed url="https://docs.google.com/document/d/17MlD30hy_beKCOVeTShZLBSJjvwGebMQjwxgP4UiUqA/edit" %}
+{% endtab %}
+
+{% tab title="Log 005" %}
+{% embed url="https://docs.google.com/document/d/1y1OK8BisQCVYTO-AFV51YDW8exJR7B6D8TwqNcC0Ar4/edit" %}
+{% endtab %}
+{% endtabs %}

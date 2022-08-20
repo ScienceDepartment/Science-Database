@@ -10,4 +10,16 @@ Maximum Class-Ds Allowed: <mark style="color:orange;">**6**</mark>
 Location: <mark style="color:yellow;">**Medium Containment Zone**</mark>
 {% endhint %}
 
-**SCP 008, also known as “Zombie Plague”** is a biohazardous Euclid anomaly. SCP 008 is an airborne infection. Should a human be infected with 008, they will die instantaneously. The deceased will then revive into a zombie-like creature. These “Zombies” resemble rotting corpses, and have a unique walking style. The infected remain just as physically able as they did when they were alive, and don’t seem to gain any ill-effects from their rotting bodies. Infected individuals are very hostile, and will attempt to spread 008 via touch. Biohazard suits have proven effective in preventing the spread of 008.
+**SCP 008, also known as “Zombie Plague”** is a biohazardous Euclid anomaly. SCP 008 is an airborne infection. Should a human be infected with 008, they will die instantaneously. The deceased will then revive into a zombie-like creature. These “Zombies” resemble rotting corpses, and have a unique walking style. The infected remain just as physically able as they did when they were alive, and don’t seem to gain any ill-effects from their rotting bodies. Infected Personnel are reported to lose motor control, and as a consequence, have a slower movement speed. Individuals become very hostile, and will attempt to spread 008 via touch. Biohazard suits have proven effective in preventing the spread of 008.
+
+## Test Logs
+
+{% tabs %}
+{% tab title="Log 001" %}
+{% embed url="https://docs.google.com/document/d/1eClJVqgAt1zq3wOvv99pt4C0t-VNlGbsm2PZVGNgWac/edit" %}
+{% endtab %}
+
+{% tab title="Log 002" %}
+{% embed url="https://docs.google.com/document/d/15Xs2UClzry5cbGfr4fvmpcZgUNKjIyG_Aj8oEpm4fXk/edit" %}
+{% endtab %}
+{% endtabs %}
