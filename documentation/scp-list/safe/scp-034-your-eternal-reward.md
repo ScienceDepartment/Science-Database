@@ -1,13 +1,13 @@
 # SCP-034 "Your Eternal Reward"
 
-{% hint style="danger" %}
-SCP-034 currently does not work
-{% endhint %}
-
 ```
 $ SCPF_NETWORK/PARAGON/DATABASE/SCP-034.png
 $ REESULT :: ERROR NO PHOTOS FOUND
 ```
+
+{% hint style="danger" %}
+SCP-034 currently does not work.
+{% endhint %}
 
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
