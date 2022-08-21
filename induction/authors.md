@@ -3,8 +3,7 @@
 ### Editors
 
 **NotNlkko**, Lead Researcher\
-**TMxtthew**, Research Supervisor\
-**LOUIEisKitted**, Research Supervisor
+**TMxtthew**, Research Supervisor
 
 ### Authors
 
