@@ -6,7 +6,7 @@
 This document has currently been made public\
 to the following:
 
-**Scientific Personnel \[ SC-1+ ]**
+**Scientific Personnel**
 
 **MTF Personnel \[ SC-1+ ]**
 
