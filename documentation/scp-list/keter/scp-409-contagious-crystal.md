@@ -7,9 +7,9 @@ SCP-409 is currently not working
 {% endhint %}
 
 {% hint style="info" %}
-Testing Clearance: <mark style="color:purple;">**Research Supervisor**</mark>
+Testing Clearance: <mark style="color:purple;">**Lead Researcher**</mark>
 
-Maximum Class-Ds Allowed: <mark style="color:orange;">**5**</mark>
+Maximum Class-Ds Allowed: <mark style="color:orange;">**6**</mark>
 
 Location: <mark style="color:yellow;">**Medium Containment Zone**</mark>
 {% endhint %}

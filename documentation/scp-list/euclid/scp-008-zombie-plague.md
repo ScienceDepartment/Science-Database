@@ -5,7 +5,7 @@
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Junior Researcher**</mark>
 
-Maximum Class-Ds Allowed: <mark style="color:orange;">**6**</mark>
+Maximum Class-Ds Allowed: <mark style="color:orange;">**5**</mark>
 
 Location: <mark style="color:yellow;">**Medium Containment Zone**</mark>
 {% endhint %}

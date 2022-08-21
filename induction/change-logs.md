@@ -6,6 +6,10 @@
 
 <img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-500 "Panacea"](../documentation/scp-list/safe/scp-500-panacea.md) to the database
 
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated testing restrictions on **all SCPs**
+
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated Editors, and Authors
+
 </details>
 
 <details>
