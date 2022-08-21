@@ -1,9 +1,6 @@
 # SCP-034 "Your Eternal Reward"
 
-```
-$ SCPF_NETWORK/PARAGON/DATABASE/SCP-034.png
-$ REESULT :: ERROR NO PHOTOS FOUND
-```
+!["SCP-034 in the hands of a subject"](https://nikkogfx.io/dxlBN3\_ne)
 
 {% hint style="danger" %}
 SCP-034 currently does not work.
