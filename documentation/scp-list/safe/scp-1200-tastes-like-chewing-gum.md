@@ -9,7 +9,7 @@ SCP-1200 is partially functional. White, Blue, and Green do not work as of yet.
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
 
-Maximum Class-Ds Allowed: <mark style="color:orange;">4</mark>
+Maximum Class-Ds Allowed: <mark style="color:orange;">**7**</mark>
 
 Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
 {% endhint %}
