@@ -11,7 +11,7 @@ SCP-005 currently does not work.
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
 
-Maximum Class-Ds Allowed: <mark style="color:orange;">**7**</mark>
+Maximum Class-Ds Allowed: <mark style="color:orange;">**Nil**</mark>
 
 Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
 {% endhint %}

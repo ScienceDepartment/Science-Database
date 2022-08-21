@@ -14,12 +14,10 @@ Location: <mark style="color:yellow;">**Medium Containment Zone**</mark>
 
 ## Test Logs
 
-{% tabs %}
-{% tab title="Log 001" %}
-{% embed url="https://docs.google.com/document/d/1eClJVqgAt1zq3wOvv99pt4C0t-VNlGbsm2PZVGNgWac/edit" %}
-{% endtab %}
+**Log 001:**
 
-{% tab title="Log 002" %}
+{% embed url="https://docs.google.com/document/d/1eClJVqgAt1zq3wOvv99pt4C0t-VNlGbsm2PZVGNgWac/edit" %}
+
+**Log 002:**
+
 {% embed url="https://docs.google.com/document/d/15Xs2UClzry5cbGfr4fvmpcZgUNKjIyG_Aj8oEpm4fXk/edit" %}
-{% endtab %}
-{% endtabs %}
