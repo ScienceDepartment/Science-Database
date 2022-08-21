@@ -16,6 +16,7 @@
     * [SCP-034 "Your Eternal Reward"](documentation/scp-list/safe/scp-034-your-eternal-reward.md)
     * [SCP-1208 "Waffle Master"](documentation/scp-list/safe/scp-1208-waffle-master.md)
     * [SCP-005 "Skeleton Key"](documentation/scp-list/safe/scp-005-skeleton-key.md)
+    * [SCP-500 "Panacea"](documentation/scp-list/safe/scp-500-panacea.md)
   * [EUCLID](documentation/scp-list/euclid/README.md)
     * [SCP-008 "Zombie Plague"](documentation/scp-list/euclid/scp-008-zombie-plague.md)
   * [KETER](documentation/scp-list/keter/README.md)
