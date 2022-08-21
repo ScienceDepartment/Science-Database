@@ -5,7 +5,7 @@
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
 
-Maximum Class-Ds Allowed: <mark style="color:orange;">**5**</mark>
+Maximum Class-Ds Allowed: <mark style="color:orange;">**7**</mark>
 
 Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
 {% endhint %}
