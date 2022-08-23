@@ -1,6 +1,14 @@
 # SCP-4966 "Pillow Pet"
 
-<figure><img src="broken-reference" alt=""><figcaption><p>"SCP-4966 under a desk."</p></figcaption></figure>
+<div>
+
+<figure><img src="https://media.discordapp.net/attachments/1000847848633540768/1011479695147155476/Screenshot_2022-08-22_233738.png" alt=""><figcaption><p>"SCP-4966 neutral face"</p></figcaption></figure>
+
+ 
+
+<figure><img src="https://media.discordapp.net/attachments/1000847848633540768/1011479695755317358/Screenshot_2022-08-22_233819.png" alt=""><figcaption><p>"SCP-4966 sad face</p></figcaption></figure>
+
+</div>
 
 {% hint style="danger" %}
 8/23/2022 - May not be tested on
