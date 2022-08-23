@@ -20,6 +20,8 @@
   * [EUCLID](documentation/scp-list/euclid/README.md)
     * [SCP-008 "Zombie Plague"](documentation/scp-list/euclid/scp-008-zombie-plague.md)
     * [SCP-4966 "Pillow Pet"](documentation/scp-list/safe/scp-4966-pillow-pet.md)
+    * [SCP-662 "Mr. Deeds"](documentation/scp-list/euclid/scp-662-mr.-deeds.md)
+    * [SCP-2398 "A Really Good Bat"](documentation/scp-list/euclid/scp-2398-a-really-good-bat.md)
   * [KETER](documentation/scp-list/keter/README.md)
     * [SCP-409 "Contagious Crystal"](documentation/scp-list/keter/scp-409-contagious-crystal.md)
 * [INTERVIEW LOGS](documentation/interview-logs/README.md)

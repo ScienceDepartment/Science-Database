@@ -1,6 +1,6 @@
 # SCP-4966 "Pillow Pet"
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>"SCP-4966 under a desk."</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>"SCP-4966 under a desk."</p></figcaption></figure>
 
 {% hint style="danger" %}
 8/23/2022 - May not be tested on

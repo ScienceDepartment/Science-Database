@@ -2,7 +2,19 @@
 
 <details>
 
-<summary>VERSION 0.0. 5 [ 8/21/2022 ]</summary>
+<summary>VERSION O.0.6 [ 8/23/2022 ]</summary>
+
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-662](../documentation/scp-list/euclid/scp-662-mr.-deeds.md)
+
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-4966](../documentation/scp-list/safe/scp-4966-pillow-pet.md)
+
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-2398](../documentation/scp-list/euclid/scp-2398-a-really-good-bat.md)
+
+</details>
+
+<details>
+
+<summary>VERSION 0.0.5 [ 8/21/2022 ]</summary>
 
 <img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-500 "Panacea"](../documentation/scp-list/safe/scp-500-panacea.md) to the database
 
