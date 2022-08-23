@@ -9,7 +9,7 @@ SCP-1200 is partially functional. White, Blue, and Green do not work as of yet.
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
 
-Maximum Class-Ds Allowed: <mark style="color:orange;">4</mark>
+Maximum Class-Ds Allowed: <mark style="color:orange;">**7**</mark>
 
 Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
 {% endhint %}
@@ -93,20 +93,18 @@ $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 
 ## Test Logs
 
-{% tabs %}
-{% tab title="Log 001" %}
+**Log 001:**
+
 {% embed url="https://docs.google.com/document/d/1BbYBYT7GgYXa3TdULKvKGCAAeYtKHy_b9-uNX0na9fs/edit" %}
-{% endtab %}
 
-{% tab title="Log 002" %}
+**Log 002:**
+
 {% embed url="https://docs.google.com/document/d/1MmqkMokFfI7f_ir0z1cwwk1YDgls9QmZ1a-lfxW7ygs/edit" %}
-{% endtab %}
 
-{% tab title="Log 003" %}
+**Log 003**
+
 {% embed url="https://docs.google.com/document/d/1XbJAXqFRxthfynI96Hinkc-4IRQ5cDCvBAyIDmSaWDM/edit" %}
-{% endtab %}
 
-{% tab title="Log 004" %}
+**Log 004**
+
 {% embed url="https://docs.google.com/document/d/1APfCjHiiPlHsvqMzcQyFgeZ2yfuVFzPinYRF43j9q-8/edit" %}
-{% endtab %}
-{% endtabs %}

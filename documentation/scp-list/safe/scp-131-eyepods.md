@@ -5,7 +5,7 @@
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
 
-Maximum Class-Ds Allowed: <mark style="color:orange;">**5**</mark>
+Maximum Class-Ds Allowed: <mark style="color:orange;">**7**</mark>
 
 Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
 {% endhint %}
@@ -90,24 +90,22 @@ The Green instance of SCP-131 is the shyest of the 131 instances, it is friendly
 
 ## Test Logs
 
-{% tabs %}
-{% tab title="Log 001 " %}
+**Log 001:**&#x20;
+
 {% embed url="https://docs.google.com/document/d/1x-ILNMB2EJEivn7xggBgEdBb_rhuFL9Y63GJxyRpurA/edit" %}
-{% endtab %}
 
-{% tab title="Log 002" %}
+**Log 002:**
+
 {% embed url="https://docs.google.com/document/d/1GdM9CEdfuTMV-WJYILsGtVpWwjc8wvZjZJBWr8R8Yqg/edit" %}
-{% endtab %}
 
-{% tab title="Log 003" %}
+**Log 003:**
+
 {% embed url="https://docs.google.com/document/d/1_1zW4maolVD6-4j286HMz0Dovtg3gEngi_jUqQmEXyM/edit" %}
-{% endtab %}
 
-{% tab title="Log 004" %}
+**Log 004:**
+
 {% embed url="https://docs.google.com/document/d/17MlD30hy_beKCOVeTShZLBSJjvwGebMQjwxgP4UiUqA/edit" %}
-{% endtab %}
 
-{% tab title="Log 005" %}
+**Log 005:**
+
 {% embed url="https://docs.google.com/document/d/1y1OK8BisQCVYTO-AFV51YDW8exJR7B6D8TwqNcC0Ar4/edit" %}
-{% endtab %}
-{% endtabs %}
