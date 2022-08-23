@@ -1,6 +1,6 @@
 # SCP-1068 "Model Rockets"
 
-!["SCP-1068 in the hands of a Class-D Subject"](<../../../.gitbook/assets/image (1) (1).png>)
+!["SCP-1068 in the hands of a Class-D Subject"](<../../../.gitbook/assets/image (1) (1) (1).png>)
 
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>

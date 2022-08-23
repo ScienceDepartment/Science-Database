@@ -19,7 +19,7 @@
     * [SCP-1208 "Waffle Master"](documentation/scp-list/safe/scp-1208-waffle-master.md)
   * [EUCLID](documentation/scp-list/euclid/README.md)
     * [SCP-008 "Zombie Plague"](documentation/scp-list/euclid/scp-008-zombie-plague.md)
-    * [SCP-4966 "Pillow Pet"](documentation/scp-list/euclid/scp-4966-pillow-pet.md)
+    * [SCP-4966 "Pillow Pet"](documentation/scp-list/safe/scp-4966-pillow-pet.md)
   * [KETER](documentation/scp-list/keter/README.md)
     * [SCP-409 "Contagious Crystal"](documentation/scp-list/keter/scp-409-contagious-crystal.md)
 * [INTERVIEW LOGS](documentation/interview-logs/README.md)
