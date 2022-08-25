@@ -4,9 +4,9 @@
 
 <summary>VERSION 0.0.7 [ 8/25/2022 ]</summary>
 
-<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated information on [SCP-500](../documentation/scp-list/safe/scp-500-panacea.md).
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated information on [SCP-500](../documentation/scp-list/safe/scp-500-panacea.md)
 
-<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Authors has been updated.
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Authors has been updated
 
 </details>
 
