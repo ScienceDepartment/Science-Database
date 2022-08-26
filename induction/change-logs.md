@@ -2,6 +2,16 @@
 
 <details>
 
+<summary>VERSION 0.0.7 [ 8/25/2022 ]</summary>
+
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated information on [SCP-500](../documentation/scp-list/safe/scp-500-panacea.md)
+
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Authors has been updated
+
+</details>
+
+<details>
+
 <summary>VERSION O.0.6 [ 8/23/2022 ]</summary>
 
 <img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-662](../documentation/scp-list/euclid/scp-662-mr.-deeds.md)
