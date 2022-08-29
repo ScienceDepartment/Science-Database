@@ -9,8 +9,6 @@ SCP-034 currently does not work.
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
 
-Cross-Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
-
 Maximum Class-Ds Allowed: <mark style="color:orange;">**7**</mark>
 
 Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
