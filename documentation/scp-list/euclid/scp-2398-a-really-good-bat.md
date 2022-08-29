@@ -7,8 +7,6 @@ Image not found
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Junior Researcher**</mark>
 
-Cross-Testing Clearance: <mark style="color:purple;">**Junior Researcher**</mark>
-
 Maximum Class-Ds Allowed: <mark style="color:orange;">**3**</mark>
 
 Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>

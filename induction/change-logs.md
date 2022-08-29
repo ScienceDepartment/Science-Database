@@ -2,6 +2,16 @@
 
 <details>
 
+<summary>VERSION 0.0.8 [ 8/29/2022 ]</summary>
+
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added Cross-Testing Clearances
+
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated information on some SCPs
+
+</details>
+
+<details>
+
 <summary>VERSION 0.0.7 [ 8/25/2022 ]</summary>
 
 <img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated information on [SCP-500](../documentation/scp-list/safe/scp-500-panacea.md)
