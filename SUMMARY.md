@@ -8,7 +8,7 @@
 
 ## DOCUMENTATION
 
-* [Cross-Testing Clearance](documentation/cross-testing-clearance.md)
+* [CROSS-TESTING CLEARANCE](documentation/cross-testing-clearance.md)
 * [SCP LIST](documentation/scp-list/README.md)
   * [SAFE](documentation/scp-list/safe/README.md)
     * [SCP-005 "Skeleton Key"](documentation/scp-list/safe/scp-005-skeleton-key.md)

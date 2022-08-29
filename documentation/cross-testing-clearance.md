@@ -1,4 +1,4 @@
-# Cross-Testing Clearance
+# CROSS-TESTING CLEARANCE
 
 This page will summarize cross-testing clearance requirements.
 
@@ -6,7 +6,7 @@ This page will summarize cross-testing clearance requirements.
 
 **Assistant Researchers:** SCP-005, SCP-034, SCP-131, SCP-500, SCP-1200, SCP-1068, SCP-1208
 
-**Junior Researchers:** SCP-4699, SCP-2398
+**Junior Researchers:** Previous + SCP-4699, SCP-2398
 
 **Researchers:** All Safe and Euclid SCPs
 
