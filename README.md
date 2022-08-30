@@ -3,23 +3,10 @@
 {% hint style="danger" %}
 **!! NOTICE !!**
 
-This document has currently been made public\
-to the following:
+This document has been classified <mark style="color:green;">\[ PUBLIC ]</mark>
 
-**Scientific Personnel**
-
-**MTF Personnel \[ SC-1+ ]**
-
-**Security Personnel \[ SC-1+]**
-
-**Ethics Personnel \[ SC-1+ ]**
+Property of SCPF Network - Science Department
 {% endhint %}
-
-
-
-
-
-
 
 ![](.gitbook/assets/transparent.png) ![](.gitbook/assets/ParagonIcon.png) ![](.gitbook/assets/transparent.png)
 
