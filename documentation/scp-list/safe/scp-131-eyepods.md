@@ -5,8 +5,6 @@
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
 
-Cross-Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
-
 Maximum Class-Ds Allowed: <mark style="color:orange;">**7**</mark>
 
 Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
@@ -22,7 +20,7 @@ SCP-131 is a Safe Class Entity which is sentient and friendly towards our Person
 
 <img src="https://lh6.googleusercontent.com/jJkheGcUco4U9SOgomRux9aav8zdNEAESmYw0JvsJIfFS3pNlSpaAfgJKrrCxWGQSg-gPuFeXbXwfmD99BRLddwGweCEKujgs8yXbsGwawNknkGMhRiDUdEclA3ZkkT87bVeD32fxkl1p0HTqoKnhbU" alt="" data-size="original">
 
-Red can be Classified as a Leader for the Eyepods, it seems to have power over its compliances. Following any command of 131-A. Although it wouldn’t be described as playful it will interact with Personnel once in sight, other instances tend to assist Red, or follow it.
+Red can be Classified as a Leader for the Eyepods, it seems to have power over its compliances. Following any command of 131-A.although it wouldn’t be described as playful it will interact with Personnel once in sight, Other instances would assist Red, or follow it.
 
 </details>
 
@@ -42,7 +40,10 @@ The orange instance of SCP 131 is out of all instances the most playful, this ma
 
 ![](https://lh6.googleusercontent.com/P7UW\_xQu6Ftf\_CUgjJMZ2pc5jZcEksorAPB-XX3HMYlOsqV1bcoqrj7sSliB3OagKQZUvc5tbcjDEbBQO02JhVVfcrFEvo0pRrP13sqKsBwuxJk80iOGHE8b5JKo\_GE2ny9ZjggHHnbHFnP4gOLkKh0)
 
-SCP-131-C can be described as an extroverted, overly friendly instance. While it is cautious of those in authority, it bonds rather quickly to those who enter its containment chamber - and seems to take to Class D much better than individuals merely observing it. SCP-131-C is of a sensor archetype, having some grasp of object permanence even when describing an object without it directly being referenced or named. Its incredibly caring, empathetic ability rivals every one of the other SCP-131 instances, and one may wonder whether it prioritizes the health and safety of others over its own.
+```html
+$ SCPF_NETWORK/PARAGON/DATABASE/SCP-131-C
+$ RESULT :: NO CURRENTLY KNOWN INFORMATION
+```
 
 </details>
 
@@ -103,7 +104,7 @@ The Green instance of SCP-131 is the shyest of the 131 instances, it is friendly
 
 **Log 004:**
 
-{% embed url="https://docs.google.com/document/d/13iQ2ey5eEV_HG9EdV4W9wQKSiK9stEGZMXIb7mF5eUo/edit" %}
+{% embed url="https://docs.google.com/document/d/17MlD30hy_beKCOVeTShZLBSJjvwGebMQjwxgP4UiUqA/edit" %}
 
 **Log 005:**
 

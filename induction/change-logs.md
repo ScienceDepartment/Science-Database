@@ -8,6 +8,8 @@
 
 <img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated information on some SCPs
 
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added information for [SCP-131-C](../documentation/scp-list/safe/scp-131-eyepods.md#scp-131-c-or-cyan)
+
 </details>
 
 <details>
