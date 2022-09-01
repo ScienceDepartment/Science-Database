@@ -6,21 +6,21 @@ If you need to speak to a **Command Member**;\
 <mark style="color:yellow;">Not-Immediate</mark> -> Terminal Tickets
 {% endhint %}
 
-### Overseer
+### OVERSSER
 
 O5-2
 
-### Research Director
+### RESEARCH DIRECTOR
 
 shaharizard | CST
 
-### Research Supervisors
+### RESEARCH SUPERVISOR
 
 sullybak | EST\
 TMxtthew | PST\
 LOUIEisKitted | CST
 
-### Lead Researchers
+### LEAD RESEARCHERS
 
 NotNlkko | EST\
 AbstractFaith | EST\
