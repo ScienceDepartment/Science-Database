@@ -29,7 +29,7 @@ If an SC-2 requests to spectate, we will honor the [<mark style="background-colo
 ****Yes, the test is considered cancelled, and you need to restart from the beginning of the process.
 
 **How often do tests get graded?**\
-Tests are graded at the [<mark style="color:purple;">**Lead Researcher's**</mark>](../induction/authors.md) Convenience. We try to ensure we get tests read within 36 hours of being submitted.
+Tests are graded at the [<mark style="color:purple;">**Lead Researcher's**</mark>](../induction/authors.md#lead-researchers) Convenience. We try to ensure we get tests read within 36 hours of being submitted.
 
 **Will the Science Department have more Sub-Departments?**\
 ****Yes, the Science Department has plans to create Sub-Departments in the future.
