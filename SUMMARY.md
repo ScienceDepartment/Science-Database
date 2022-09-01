@@ -6,8 +6,8 @@
 
 * [FAQ](information/faq.md)
 * [MAIN GUIDELINES](information/main-guidelines.md)
-* [COMMAND MEMBERS](information/command-members.md)
-* [CHANGE LOGS](information/change-logs.md)
+* [COMMAND MEMBERS](induction/authors.md)
+* [CHANGE LOGS](induction/change-logs.md)
 
 ## DOCUMENTATION
 

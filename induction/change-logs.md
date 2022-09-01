@@ -82,7 +82,7 @@ VE9EQVkgV1VaWiBBTkQgVEhFIFNDRCBDT01NQU5EIFNUQVJURUQgVEhFIEhBWk1BVCBHQU5H
 
 <summary>VERSON 0.0.2 [ 8/14/2022 ]</summary>
 
-<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added guirod1 to [Authors](command-members.md)
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added guirod1 to [Authors](authors.md)
 
 <img src="../.gitbook/assets/added.png" alt="" data-size="line">MTF ranking SC-3+ have been given access
 

@@ -20,7 +20,16 @@ If an SC-2 requests to spectate, we will honor the [<mark style="background-colo
 **Do I need permission to host a test?**\
 ****No, as long as it follows the Code of Ethics, Guidelines, and your current ranking permits testing on desired SCPs.
 
-**How do I rank up within the Scientific Department?**
+**How do I rank up within the Scientific Department?**\
+****You must meet the promotion requirements found in the [ScD Guidelines](main-guidelines.md).
+
+{% embed url="https://database.scpfnetwork.com/information/main-guidelines" %}
 
 **If my Class-D dies by accident, is the test cancelled?**\
 ****Yes, the test is considered cancelled, and you need to restart from the beginning of the process.
+
+**How often do tests get graded?**\
+Tests are graded at the [<mark style="color:purple;">**Lead Researcher's**</mark>](../induction/authors.md) Convenience. We try to ensure we get tests read within 36 hours of being submitted.
+
+**Will the Science Department have more Sub-Departments?**\
+****Yes, the Science Department has plans to create Sub-Departments in the future.
