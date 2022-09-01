@@ -16,7 +16,7 @@ shaharizard | CST
 
 ### Research Supervisors
 
-sullyback | EST\
+sullybak | EST\
 TMxtthew | PST\
 LOUIEisKitted | CST
 
