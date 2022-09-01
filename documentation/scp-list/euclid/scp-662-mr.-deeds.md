@@ -1,6 +1,6 @@
 # SCP-662 "Mr. Deeds"
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>"SCP-662, an engraved silver bell"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>"SCP-662, an engraved silver bell"</p></figcaption></figure>
 
 {% hint style="danger" %}
 8/23/2022 - May not be tested on
@@ -8,6 +8,8 @@
 
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Junior Researcher**</mark>
+
+Cross-Testing Clearance: <mark style="color:purple;">**Researcher**</mark>
 
 Maximum Class-Ds Allowed: <mark style="color:orange;">**3**</mark>
 

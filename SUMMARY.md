@@ -1,10 +1,13 @@
 # Table of contents
 
-## INDUCTION
+* [WELCOME](README.md)
 
-* [INFORMATION](README.md)
-* [AUTHORS](induction/authors.md)
-* [CHANGE LOGS](induction/change-logs.md)
+## INFORMATION
+
+* [FAQ](information/faq.md)
+* [MAIN GUIDELINES](information/main-guidelines.md)
+* [COMMAND MEMBERS](information/command-members.md)
+* [CHANGE LOGS](information/change-logs.md)
 
 ## DOCUMENTATION
 
