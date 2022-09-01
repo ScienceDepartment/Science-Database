@@ -64,7 +64,7 @@ $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 
 The red instance of SCP 1200 makes anyone who consumes it somewhat translucent (although to a point where the naked eye can see said subject). The effects don’t seem to wear down nor to damage the subject under the effects of said gum.
 
-![](<../../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 </details>
 
