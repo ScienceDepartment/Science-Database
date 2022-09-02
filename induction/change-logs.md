@@ -2,6 +2,20 @@
 
 <details>
 
+<summary>VERSION 0.0.9 [ 9/1/2022 ]</summary>
+
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added Welcome
+
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added FAQ
+
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added Main Guidelines
+
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Changed Authors/Editors to Command Members
+
+</details>
+
+<details>
+
 <summary>VERSION 0.0.8 [ 8/29/2022 ]</summary>
 
 <img src="../.gitbook/assets/added.png" alt="" data-size="line">Added Cross-Testing Clearances
