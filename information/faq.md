@@ -3,6 +3,20 @@
 **Can I spectate tests performed by members of the Scientific Department?**\
 ****Yes, however you must be SC-1+.
 
+**How many spectators can a test have?**\
+Light Containment Zone/Cleanrooms: 3 spectators\
+Medium Containment Zone/SL-6: 2 spectators\
+Heavy Containment Zone: 2 Spectators\
+\
+****Spectators are defined as all Personnel Ranking Security Class-1+.\
+<mark style="color:yellow;">**Group Tests hosted by ScD are exempt from this rule.**</mark>
+
+For complete and detailed information please [<mark style="background-color:green;">view it here</mark>](https://scpf.network/docs/coe/site\_policies/site\_access#security-class-1).
+
+{% embed url="https://scpf.network/docs/coe/site_policies/site_access#security-class-1" %}
+Look at Security Class-1 for LCZ, and MCZ. Security Class-2 for HCZ
+{% endembed %}
+
 **Can Scientific Department Interns spectate tests?**\
 ****Yes, as all testing is part of the Science Department they take priority over SC-1.\
 If an SC-2 requests to spectate, we will honor the [<mark style="background-color:green;">**spectating rules found in the CoE**</mark>](https://scpf.network/docs/coe/site\_policies/site\_access#notes).
