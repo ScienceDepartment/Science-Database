@@ -16,5 +16,5 @@ Maximum Class-Ds Allowed: <mark style="color:orange;">**7**</mark>
 Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
 {% endhint %}
 
-**SCP-034 also known as "Your Eternal Reward"** is a primitively carved obsidian knife. When used to kill another human being, the killer will then take on the full physical appearance of the victim. The transformation is perfect, and visually indistinguishable from the original person.
+**SCP-034 also known as "Your Eternal Reward"** is a primitively carved obsidian knife. That is all the information we currently know about SCP-034.
 

@@ -1,6 +1,6 @@
 # SCP-1068 "Model Rockets"
 
-!["SCP-1068 in the hands of a Class-D Subject"](broken-reference)
+!["SCP-1068 in the hands of a Class-D Subject"](https://nikkogfx.io/R2e6kiUvG)
 
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
