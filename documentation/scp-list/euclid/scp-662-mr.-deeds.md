@@ -17,3 +17,8 @@ Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
 {% endhint %}
 
 **SCP-662 also known as "Mr. Deeds"**, is a standard silver bell with intricate engravings. As it is made of very pure silver, it requires regular polishing to remain without tarnish.
+
+```
+$ SCPF_NETWORK/PARAGON/DATABASE/SCP-662
+$ RESULT :: NO CURRENTLY KNOWN INFORMATION
+```
