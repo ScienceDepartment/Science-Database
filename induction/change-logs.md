@@ -6,8 +6,6 @@
 
 <img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated description for all SCPs in the database
 
-<img src="../.gitbook/assets/changed.png" alt="" data-size="line">[SCP-409](../documentation/scp-list/keter/scp-409-contagious-crystal.md) is now allowed to be tested on by <mark style="color:purple;">**Researchers**</mark>
-
 </details>
 
 <details>
