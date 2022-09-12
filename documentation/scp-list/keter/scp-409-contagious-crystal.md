@@ -16,17 +16,16 @@ Maximum Class-Ds Allowed: <mark style="color:orange;">**5**</mark>
 Location: <mark style="color:yellow;">**Medium Containment Zone**</mark>
 {% endhint %}
 
-**SCP 409, also known as “Contagious Crystal”** is a non sentient Keter anomaly contained at MCZ. If one happens to touch the crystal, their body will start to “grow” a layer of that same white and translucent crystal.&#x20;
+**SCP 409, also known as “Contagious Crystal”** is a Keter anomaly contained in the MCZ. SCP 409 has a white crystal-like appearance with what seems to be white dirt surrounding itself. The crystal has two secondary crystals that split off. These secondary crystals have just as much ability as the main crystal. A pickaxe from either people that found SCP 409 or the transport sub-contractors is left swung into the dirt.
 
-The full transformation takes some time to be fully complete, thus visual identification in its early stages can be achieved. Although not possible to observe from an outside perspective, infected hosts will have a slightly blue colored blurry vision.
+409 has multiple side effects on the afflicted if they were to touch the SCP's crystal. Several side effects have been documented, including loss of life, sore muscles, decreased running speed, resistance to a variety of sulfur-based explosives, such as bullets and grenades, and finally resistance to blunt force trauma.
 
-Hosts will start to slowly lose HP and movement speed, which should be lower than the average walking speed of a healthy human, getting slower and slower the longer they’ve been infected. However, the longer an individual has been infected, the more resistant they are to both firepower, including grenades, and impact, such as punches Individuals who are wearing hazmat suits have shown immunity to 409 and its effects, even from infected individuals.
+SCP 409 has three known ways so far to infect a host,
 
-There are 3 known ways that SCP-409 infects hosts:
+* Skin-to-crystal contact;
+* Host to Host contact;
+* Deceased Host to Host Contact.
 
-* Direct contact with the “original” crystal itself;
-* If an infected host touches another individual, infecting him in the process;
-* An individual touches the dead corpse of a deceased host.
+All researchers are mandated to wear hazmat before being allowed to enter the floor on which SCP 409 is held. This is to prevent a breach from occurring. If a breach were to occur, all individuals inside a Hazmat suit would be safe from infection.
 
-When an instance of SCP-409 becomes deceased, their body will remain for upwards of 1 minute, before disintegrating into fine particles. It is also worth noting that the bodies can be cleared up with conventional gun shots, make sure to stay away from the body as it launches particles through the air.
-
+In case of a breach, deplete oxygen in SCP 409's floor and any other afflicted zones on-site. In case of infection, terminate.

@@ -16,7 +16,7 @@ Maximum Class-Ds Allowed: <mark style="color:orange;">**7**</mark>
 Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
 {% endhint %}
 
-**SCP 1200 also known as “Tastes Like Chewing Gum”** is composed of 6 known packages of anomalous gums, that if consumed, give a subject certain anomalous properties related to their name (for instance, the gum “Tastes like ghost” makes its consumer translucid, just like a ghost). These gums cannot be “carried” and are to be clicked while they lie on the table they are currently placed. As of now, no gums seem to kill/harm their consumer, although this may change with future additions/fixes.
+**SCP 1200 also known as “Tastes Like Chewing Gum”** is composed of 6 known packages of anomalous gums, that if consumed, give a subject certain anomalous properties related to their name (for instance, the gum “Tastes like ghost” makes its consumer translucent, just like a ghost). These gums cannot be “carried” and are to be clicked while they lie on the table they are currently placed. As of now, no gums seem to kill/harm their consumer.
 
 <details>
 
@@ -95,22 +95,12 @@ $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 
 ## Test Logs
 
-**Log 001:**
+### [Test Log 01](https://docs.google.com/document/d/1BbYBYT7GgYXa3TdULKvKGCAAeYtKHy\_b9-uNX0na9fs/edit)
 
-{% embed url="https://docs.google.com/document/d/1BbYBYT7GgYXa3TdULKvKGCAAeYtKHy_b9-uNX0na9fs/edit" %}
+### [Test Log 02](https://docs.google.com/document/d/1MmqkMokFfI7f\_ir0z1cwwk1YDgls9QmZ1a-lfxW7ygs/edit)
 
-**Log 002:**
+### [Test Log 03](https://docs.google.com/document/d/1XbJAXqFRxthfynI96Hinkc-4IRQ5cDCvBAyIDmSaWDM/edit)
 
-{% embed url="https://docs.google.com/document/d/1MmqkMokFfI7f_ir0z1cwwk1YDgls9QmZ1a-lfxW7ygs/edit" %}
+### [Test Log 04](https://docs.google.com/document/d/1APfCjHiiPlHsvqMzcQyFgeZ2yfuVFzPinYRF43j9q-8/edit)
 
-**Log 003**
-
-{% embed url="https://docs.google.com/document/d/1XbJAXqFRxthfynI96Hinkc-4IRQ5cDCvBAyIDmSaWDM/edit" %}
-
-**Log 004**
-
-{% embed url="https://docs.google.com/document/d/1APfCjHiiPlHsvqMzcQyFgeZ2yfuVFzPinYRF43j9q-8/edit" %}
-
-Log 005
-
-{% embed url="https://docs.google.com/document/d/1WTKWPczevXZ6-ri8keZk3mKD8hvt20cadtrtyjfzBQU/edit" %}
+### [Test Log 05](https://docs.google.com/document/d/1WTKWPczevXZ6-ri8keZk3mKD8hvt20cadtrtyjfzBQU/edit)
