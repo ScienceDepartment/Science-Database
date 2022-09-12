@@ -25,8 +25,3 @@ Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
 {% endhint %}
 
 **SCP-4966 also known as "Pillow Pets"**, is a sentient Euclid SCP that resembles that of a cylindrical sofa pillow. It currently is known to have 4 different emotions which are happy, neutral, and sad, it has been noted to have more than one neutral face. Its speed can vary from walking speed to full sprinting speed capable of outrunning Personnel.
-
-```
-$ SCPF_NETWORK/PARAGON/DATABASE/SCP-4966
-$ RESULT :: NO CURRENTLY KNOWN INFORMATION
-```

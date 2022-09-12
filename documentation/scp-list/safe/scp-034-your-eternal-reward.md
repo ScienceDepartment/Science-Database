@@ -18,8 +18,3 @@ Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
 
 **SCP-034 also known as "Your Eternal Reward"** is a primitively carved obsidian knife. That is all the information we currently know about SCP-034.
 
-```
-$ SCPF_NETWORK/PARAGON/DATABASE/SCP-034
-$ RESULT :: NO CURRENTLY KNOWN INFORMATION
-```
-
