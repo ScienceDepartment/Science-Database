@@ -12,13 +12,7 @@ Maximum Class-Ds Allowed: <mark style="color:orange;">**5**</mark>
 Location: <mark style="color:yellow;">**Medium Containment Zone**</mark>
 {% endhint %}
 
-**SCP 008, also known as “Zombie Plague”** is a biohazardous Euclid anomaly, and is an airborne infection. Should a human be infected with SCP-008 or by an instance of SCP-008, they will turn into a zombie. There have been 3 reported types of zombies, each with their own properties and effects, which are listed below. SCP-008 is preventable through biohazard suits or gas masks, of which are provided to ScD Personnel, and MTF Personnel. Should one become infected, they tend to lose all common sense, and will begin to spread the virus to non-infected members.&#x20;
-
-{% hint style="danger" %}
-<mark style="color:red;">**MANDATE**</mark>
-
-It is mandated that all Personnel wear their hazmat suit when testing on SCP-008 and in the case of a breach. When wearing the hazmat suit, you are immune to the effects of SCP-008.
-{% endhint %}
+**SCP 008, also known as “Zombie Plague”** is a biohazardous Euclid anomaly, and is an airborne infection. Should a human be infected with SCP-008 or by an instance of SCP-008, they will turn into a zombie. There have been 3 reported types of zombies, each with their own properties and effects, which are listed below. SCP-008 is preventable through biohazard suits or gas masks, of which are provided to ScD Command members, and MTF Personnel. Should one become infected, they tend to lose all common sense, and will begin to spread the virus to non-infected members.&#x20;
 
 ## Different Gasses
 

@@ -11,7 +11,7 @@ Heavy Containment Zone: 2 Spectators\
 ****Spectators are defined as all Personnel Ranking Security Class-1+.\
 <mark style="color:yellow;">**Group Tests hosted by ScD are exempt from this rule.**</mark>
 
-For complete and detailed information please [<mark style="background-color:green;">**view it here**</mark>](https://scpf.network/docs/coe/site\_policies/site\_access#security-class-1).
+For complete and detailed information please [<mark style="background-color:green;">view it here</mark>](https://scpf.network/docs/coe/site\_policies/site\_access#security-class-1).
 
 {% embed url="https://scpf.network/docs/coe/site_policies/site_access#security-class-1" %}
 Look at Security Class-1 for LCZ, and MCZ. Security Class-2 for HCZ
@@ -24,7 +24,7 @@ If an SC-2 requests to spectate, we will honor the [<mark style="background-colo
 {% embed url="https://scpf.network/docs/coe/site_policies/site_access#notes" %}
 
 **How do I join the Scientific Department?**\
-****You can send an application in the [<mark style="background-color:green;">**Paragon Application Center**</mark>](https://www.roblox.com/games/9203277214/Application-Center).
+****You can send an application in the Paragon Application Center.
 
 {% embed url="https://www.roblox.com/games/9203277214/Application-Center" %}
 
