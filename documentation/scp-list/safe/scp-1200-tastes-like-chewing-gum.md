@@ -39,7 +39,7 @@ $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 
 SCP 1200-29, also known as “Rainbow gum” is another harmless instance of 1200. If consumed, the subject will shrink and its body will deform into bizarre proportions. These effects do not damage the subject and no other physical changes aside from deformation seem to take place.
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2) (1).png>)
 
 </details>
 

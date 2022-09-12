@@ -1,6 +1,6 @@
 # SCP-2398 "A Really Good Bat"
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>"SCP-2398"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>"SCP-2398"</p></figcaption></figure>
 
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Junior Researcher**</mark>

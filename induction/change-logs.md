@@ -2,6 +2,14 @@
 
 <details>
 
+<summary>VERSION 0.1.0 [ 9/12/2022 ]</summary>
+
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated description for all SCPs in the database
+
+</details>
+
+<details>
+
 <summary>VERSION 0.0.9 [ 9/1/2022 ]</summary>
 
 <img src="../.gitbook/assets/added.png" alt="" data-size="line">Added Welcome

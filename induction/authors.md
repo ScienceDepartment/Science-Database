@@ -23,9 +23,7 @@ LOUIEisKitted | CST
 ### LEAD RESEARCHERS
 
 NotNlkko | EST\
-AbstractFaith | EST\
-Qdiggitydoge | EST\
-Yeetus555 | PDT
+Qdiggitydoge | EST
 
 
 
@@ -36,4 +34,4 @@ Yeetus555 | PDT
 | NotNlkko  | NotNlkko      |
 | ryankub   | TMxtthew      |
 | K0xilin   | LOUIEisKitted |
-| Dlorenz12 |               |
+| Dlorenz12 | sullybak      |
