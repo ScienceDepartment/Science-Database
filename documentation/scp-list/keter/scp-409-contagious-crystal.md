@@ -2,14 +2,10 @@
 
 !["SCP-409 Inner Containment Zone"](https://lh3.googleusercontent.com/tagx2yYzi-ESUfqTkpLez2KhdiPHqnhjU3BqMoeVEIWV4pcohvRBe3GgLTLCqDbkKdCyMSNMS4RT\_JvTqVSFHxmECK4BThRldhnv3yzbz8dz6gYTZZJ1ehpNbYSvd3IMTkUuMG0LKwlKFcZqp9Q0tPM)
 
-{% hint style="danger" %}
-SCP-409 is currently not working
-{% endhint %}
-
 {% hint style="info" %}
-Testing Clearance: <mark style="color:purple;">**Research Supervisor**</mark>
+Testing Clearance: <mark style="color:purple;">**Researcher**</mark>
 
-Cross-Testing Clearance: <mark style="color:purple;">**Research Supervisor**</mark>
+Cross-Testing Clearance: <mark style="color:purple;">**Researcher**</mark>
 
 Maximum Class-Ds Allowed: <mark style="color:orange;">**5**</mark>
 
@@ -26,6 +22,10 @@ SCP 409 has three known ways so far to infect a host,
 * Host to Host contact;
 * Deceased Host to Host Contact.
 
-All researchers are mandated to wear hazmat before being allowed to enter the floor on which SCP 409 is held. This is to prevent a breach from occurring. If a breach were to occur, all individuals inside a Hazmat suit would be safe from infection.
+{% hint style="danger" %}
+<mark style="color:red;">**MANDATE**</mark>
 
-In case of a breach, deplete oxygen in SCP 409's floor and any other afflicted zones on-site. In case of infection, terminate.
+All researchers are mandated to wear hazmat before being allowed to enter the floor on which SCP 409 is held, this is to prevent a breach from occurring.
+{% endhint %}
+
+If a breach were to occur, all individuals inside a Hazmat suit would be safe from infection. In case of a breach, deplete oxygen in SCP 409's floor and any other afflicted zones on-site. In case of infection, terminate.
