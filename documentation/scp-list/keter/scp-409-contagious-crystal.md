@@ -2,6 +2,10 @@
 
 !["SCP-409 Inner Containment Zone"](https://lh3.googleusercontent.com/tagx2yYzi-ESUfqTkpLez2KhdiPHqnhjU3BqMoeVEIWV4pcohvRBe3GgLTLCqDbkKdCyMSNMS4RT\_JvTqVSFHxmECK4BThRldhnv3yzbz8dz6gYTZZJ1ehpNbYSvd3IMTkUuMG0LKwlKFcZqp9Q0tPM)
 
+{% hint style="danger" %}
+SCP-409 is currently not working and may not be tested on
+{% endhint %}
+
 {% hint style="info" %}
 Testing Clearance: <mark style="color:purple;">**Researcher**</mark>
 
