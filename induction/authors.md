@@ -12,11 +12,10 @@ O5-2
 
 ### RESEARCH DIRECTOR
 
-shaharizard | CST
+
 
 ### RESEARCH SUPERVISOR
 
-sullybak | EST\
 TMxtthew | PST\
 LOUIEisKitted | CST
 

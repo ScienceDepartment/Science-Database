@@ -1,2 +1,0 @@
-# INTERVIEW LOGS
-

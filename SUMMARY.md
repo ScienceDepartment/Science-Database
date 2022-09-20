@@ -28,6 +28,3 @@
     * [SCP-2398 "A Really Good Bat"](documentation/scp-list/euclid/scp-2398-a-really-good-bat.md)
   * [KETER](documentation/scp-list/keter/README.md)
     * [SCP-409 "Contagious Crystal"](documentation/scp-list/keter/scp-409-contagious-crystal.md)
-* [INTERVIEW LOGS](documentation/interview-logs/README.md)
-  * [INTERVIEW #001](documentation/interview-logs/interview-001.md)
-  * [INTERVIEW #002](documentation/interview-logs/interview-002.md)
