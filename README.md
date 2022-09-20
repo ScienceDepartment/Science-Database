@@ -1,12 +1,14 @@
-# INFORMATION
+# WELCOME
 
 {% hint style="danger" %}
 **!! NOTICE !!**
 
 This document has been classified <mark style="color:green;">\[ PUBLIC ]</mark>
 
-Property of SCPF Network - Science Department
+Property of SCPF Network
 {% endhint %}
+
+{% embed url="https://scpf.network" %}
 
 ![](.gitbook/assets/transparent.png) ![](.gitbook/assets/ParagonIcon.png) ![](.gitbook/assets/transparent.png)
 

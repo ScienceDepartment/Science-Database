@@ -2,16 +2,6 @@
 
 <details>
 
-<summary>VERSION 0.1.1 [ 9/19/2022 ]</summary>
-
-<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated [INFORMATION](broken-reference)
-
-<img src="../.gitbook/assets/removed.png" alt="" data-size="line">Removed Interview Logs
-
-</details>
-
-<details>
-
 <summary>VERSION 0.1.0 [ 9/12/2022 ]</summary>
 
 <img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated description for all SCPs in the database
