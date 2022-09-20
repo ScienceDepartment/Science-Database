@@ -3,7 +3,7 @@
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>"SCP-662, an engraved silver bell"</p></figcaption></figure>
 
 {% hint style="danger" %}
-8/23/2022 - May not be tested on
+This SCP may not be tested on
 {% endhint %}
 
 {% hint style="info" %}

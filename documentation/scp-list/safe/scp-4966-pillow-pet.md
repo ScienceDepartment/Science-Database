@@ -11,7 +11,7 @@
 </div>
 
 {% hint style="danger" %}
-8/23/2022 - May not be tested on
+This SCP may not be tested on
 {% endhint %}
 
 {% hint style="info" %}
