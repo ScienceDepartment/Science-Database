@@ -22,7 +22,12 @@ LOUIEisKitted | CST
 ### LEAD RESEARCHERS
 
 NotNlkko | EST\
-Qdiggitydoge | EST
+Qdiggitydoge | EST\
+WarauKitsune | MDT\
+Thenameis\_User | EST\
+
+
+
 
 
 
@@ -33,4 +38,4 @@ Qdiggitydoge | EST
 | NotNlkko  | NotNlkko      |
 | ryankub   | TMxtthew      |
 | K0xilin   | LOUIEisKitted |
-| Dlorenz12 | sullybak      |
+| Dlorenz12 |               |
