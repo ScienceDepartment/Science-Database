@@ -6,7 +6,7 @@
 
 <img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [Team Testing](../information/team-testing.md)
 
-<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Changed [SCP-2398](../documentation/scp-list/safe/scp-2398-a-really-good-bat.md) from <mark style="color:yellow;">Euclid</mark> to <mark style="color:green;">Safe.</mark>
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Changed [SCP-2398](../scp-list/safe/scp-2398-a-really-good-bat.md) from <mark style="color:yellow;">Euclid</mark> to <mark style="color:green;">Safe.</mark>
 
 </details>
 
@@ -26,7 +26,7 @@
 
 <img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated description for all SCPs in the database
 
-<img src="../.gitbook/assets/changed.png" alt="" data-size="line">[SCP-409](../documentation/scp-list/keter/scp-409-contagious-crystal.md) is now allowed to be tested on by <mark style="color:purple;">**Researchers**</mark>
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">[SCP-409](../scp-list/keter/scp-409-contagious-crystal.md) is now allowed to be tested on by <mark style="color:purple;">**Researchers**</mark>
 
 </details>
 
@@ -52,7 +52,7 @@
 
 <img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated information on some SCPs
 
-<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added information for [SCP-131-C](../documentation/scp-list/safe/scp-131-eyepods.md#scp-131-c-or-cyan)
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added information for [SCP-131-C](../scp-list/safe/scp-131-eyepods.md#scp-131-c-or-cyan)
 
 </details>
 
@@ -60,7 +60,7 @@
 
 <summary>VERSION 0.0.7 [ 8/25/2022 ]</summary>
 
-<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated information on [SCP-500](../documentation/scp-list/safe/scp-500-panacea.md)
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated information on [SCP-500](../scp-list/safe/scp-500-panacea.md)
 
 <img src="../.gitbook/assets/changed.png" alt="" data-size="line">Authors has been updated
 
@@ -70,11 +70,11 @@
 
 <summary>VERSION O.0.6 [ 8/23/2022 ]</summary>
 
-<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-662](../documentation/scp-list/euclid/scp-662-mr.-deeds.md)
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-662](../scp-list/euclid/scp-662-mr.-deeds.md)
 
-<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-4966](../documentation/scp-list/safe/scp-4966-pillow-pet.md)
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-4966](../scp-list/euclid/scp-4966-pillow-pet.md)
 
-<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-2398](../documentation/scp-list/safe/scp-2398-a-really-good-bat.md)
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-2398](../scp-list/safe/scp-2398-a-really-good-bat.md)
 
 </details>
 
@@ -82,7 +82,7 @@
 
 <summary>VERSION 0.0.5 [ 8/21/2022 ]</summary>
 
-<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-500 "Panacea"](../documentation/scp-list/safe/scp-500-panacea.md) to the database
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-500 "Panacea"](../scp-list/safe/scp-500-panacea.md) to the database
 
 <img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated testing restrictions on **all SCPs**
 
@@ -104,11 +104,11 @@ VE9EQVkgV1VaWiBBTkQgVEhFIFNDRCBDT01NQU5EIFNUQVJURUQgVEhFIEhBWk1BVCBHQU5H
 
 <img src="../.gitbook/assets/removed.png" alt="" data-size="line">Removed `Testing Logs` page
 
-<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [Test Logs](../documentation/scp-list/safe/scp-131-eyepods.md#test-logs) to SCP-131
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [Test Logs](../scp-list/safe/scp-131-eyepods.md#test-logs) to SCP-131
 
-<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [Test Logs](../documentation/scp-list/safe/scp-1200-tastes-like-chewing-gum.md#test-logs) to SCP-1200
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [Test Logs](../scp-list/safe/scp-1200-tastes-like-chewing-gum.md#test-logs) to SCP-1200
 
-<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated [SCP-131-B](../documentation/scp-list/safe/scp-131-eyepods.md#scp-131-b-or-black)
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated [SCP-131-B](../scp-list/safe/scp-131-eyepods.md#scp-131-b-or-black)
 
 <img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated SCP-008 information
 
@@ -132,9 +132,9 @@ VE9EQVkgV1VaWiBBTkQgVEhFIFNDRCBDT01NQU5EIFNUQVJURUQgVEhFIEhBWk1BVCBHQU5H
 
 <img src="../.gitbook/assets/added.png" alt="" data-size="line">Executive Personnel ranking SC-3+ have been given access
 
-<img src="../.gitbook/assets/changed.png" alt="" data-size="line">[SCP-008](../documentation/scp-list/euclid/scp-008-zombie-plague.md) has been updated
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">[SCP-008](../scp-list/euclid/scp-008-zombie-plague.md) has been updated
 
-<img src="../.gitbook/assets/changed.png" alt="" data-size="line">[SCP-409](../documentation/scp-list/keter/scp-409-contagious-crystal.md) clearance updated from <mark style="color:purple;">Senior Researcher</mark> to <mark style="color:purple;">Lead Researcher</mark>
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">[SCP-409](../scp-list/keter/scp-409-contagious-crystal.md) clearance updated from <mark style="color:purple;">Senior Researcher</mark> to <mark style="color:purple;">Lead Researcher</mark>
 
 <img src="../.gitbook/assets/added.png" alt="" data-size="line">Interview logs added
 
@@ -150,10 +150,10 @@ VE9EQVkgV1VaWiBBTkQgVEhFIFNDRCBDT01NQU5EIFNUQVJURUQgVEhFIEhBWk1BVCBHQU5H
 
 <img src="../.gitbook/assets/changed.png" alt="" data-size="line">SCP-131-B is now \[REDACTED] on ███ ██████████████ orders
 
-<img src="../.gitbook/assets/removed.png" alt="" data-size="line">Temporary placeholder SCPs from <mark style="color:yellow;"></mark> [<mark style="color:yellow;">Euclid</mark> ](../documentation/scp-list/euclid/)and [<mark style="color:red;">Keter</mark>](../documentation/scp-list/keter/)<mark style="color:red;"></mark>
+<img src="../.gitbook/assets/removed.png" alt="" data-size="line">Temporary placeholder SCPs from <mark style="color:yellow;"></mark> [<mark style="color:yellow;">Euclid</mark> ](../scp-list/euclid/)and [<mark style="color:red;">Keter</mark>](../scp-list/keter/)<mark style="color:red;"></mark>
 
 <img src="../.gitbook/assets/added.png" alt="" data-size="line">Authors Page
 
-<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Fixed [SCP-1200](../documentation/scp-list/safe/scp-1200-tastes-like-chewing-gum.md) page showing incorrect numbers
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Fixed [SCP-1200](../scp-list/safe/scp-1200-tastes-like-chewing-gum.md) page showing incorrect numbers
 
 </details>
