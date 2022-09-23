@@ -6,6 +6,7 @@
 
 * [FAQ](information/faq.md)
 * [HOW TO WRITE A TEST REPORT](information/how-to-write-a-test-report.md)
+* [TEAM TESTING](information/team-testing.md)
 * [MAIN GUIDELINES](information/main-guidelines.md)
 * [COMMAND MEMBERS](induction/authors.md)
 * [CHANGE LOGS](induction/change-logs.md)
