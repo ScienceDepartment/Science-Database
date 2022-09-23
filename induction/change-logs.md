@@ -2,6 +2,16 @@
 
 <details>
 
+<summary>VERSION 0.1.1 [ 9/19/2022 ]</summary>
+
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated [INFORMATION](broken-reference)
+
+<img src="../.gitbook/assets/removed.png" alt="" data-size="line">Removed Interview Logs
+
+</details>
+
+<details>
+
 <summary>VERSION 0.1.0 [ 9/12/2022 ]</summary>
 
 <img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated description for all SCPs in the database
@@ -54,7 +64,7 @@
 
 <img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-4966](../documentation/scp-list/safe/scp-4966-pillow-pet.md)
 
-<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-2398](../documentation/scp-list/euclid/scp-2398-a-really-good-bat.md)
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [SCP-2398](../documentation/scp-list/safe/scp-2398-a-really-good-bat.md)
 
 </details>
 
