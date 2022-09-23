@@ -2,6 +2,16 @@
 
 <details>
 
+<summary>VERSION 0.1.2 [ 9/22/2022 ]</summary>
+
+<img src="../.gitbook/assets/added.png" alt="" data-size="line">Added [Team Testing](../information/team-testing.md)
+
+<img src="../.gitbook/assets/changed.png" alt="" data-size="line">Changed [SCP-2398](../documentation/scp-list/safe/scp-2398-a-really-good-bat.md) from <mark style="color:yellow;">Euclid</mark> to <mark style="color:green;">Safe.</mark>
+
+</details>
+
+<details>
+
 <summary>VERSION 0.1.1 [ 9/19/2022 ]</summary>
 
 <img src="../.gitbook/assets/changed.png" alt="" data-size="line">Updated [INFORMATION](broken-reference)
